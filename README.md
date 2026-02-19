@@ -4,7 +4,7 @@ This is a very basic threadpooling header-only library developed for educational
 This is not a fully fleshed out nor is it intended to be. DO NOT USE IN PRODUCTION.
 
 ## Motivation
-This is an educational project, that I'm using to deepen my knowledge of the CPP standard library and future management.
+This is an educational project, I'm quite familiar and have implemented futures in Rust, but I wanted to deepen my knowledge of CPP, the standard library and future management in CPP. Since CPP is also fairly widely utilzed across industries.
 - Mutithreading and syncrhonization in C++
 - Basic threadpooling api I can use in other learning projects.
 
